@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-demo",
-    "slug": "expo-demo",
+    "name": "speed-checker",
+    "slug": "speed-checker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
